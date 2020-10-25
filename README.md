@@ -1,17 +1,11 @@
-### Hi there 👋
+### Hi there, this is Shreya! 👋
 
-<!--
-**shreyaprabhakar7/shreyaprabhakar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... machine learning
-- 🌱 I’m currently learning ... computer vision
+- 🔭 I’m currently working on ... Machine learning
+- 🌱 I’m currently learning ... computer Vision
 - 👯 I’m looking to collaborate on ... qwerty
 - 🤔 I’m looking for help with ...hih
-- 💬 Ask me about ...nnpnkn
+- 💬 Ask me about ... anything
 - 📫 How to reach me: ... linkedoin
-- 😄 Pronouns: ... she
+- 😄 Pronouns: ... she / her
 - ⚡ Fun fact: ... damn
--->
 
