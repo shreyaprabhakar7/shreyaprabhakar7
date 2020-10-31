@@ -1,9 +1,9 @@
 ### Hi there, this is Shreya! 👋
 
-- 🔭 I’m currently working on ... 
-        **1. Machine Learning <br />
-        **2. Deep Learning <br /> 
-        **3. Data Analysis <br />
+- 🔭 I’m currently working on ... <br /> 
+        1. Machine Learning <br />
+        2. Deep Learning <br /> 
+        3. Data Analysis <br />
 - 🌱 I’m currently learning ... computer Vision
 
 - 📫 How to reach me: ... 
