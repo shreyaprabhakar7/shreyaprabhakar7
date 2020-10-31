@@ -9,8 +9,8 @@
          **- Data Analysis** <br />
 
 - 📫 How to reach me: ... 
-     1. linkedin - https://www.linkedin.com/in/shreya-prabhakar-740921151/ 
+     - linkedin - https://www.linkedin.com/in/shreya-prabhakar-740921151/ 
 
 - ⚡ Fun fact: ... 
-     "Data lasts longer than opinions"
+     **Data lasts longer than opinions**
 
