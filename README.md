@@ -1,11 +1,14 @@
 ### Hi there, this is Shreya! 👋
 
-- 🔭 I’m currently working on ... Machine learning
+- 🔭 I’m currently working on ... 
+        1. Machine Learning 
+        2. Deep Learning
+        3. Data Analysis
 - 🌱 I’m currently learning ... computer Vision
-- 👯 I’m looking to collaborate on ... qwerty
-- 🤔 I’m looking for help with ...hih
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... linkedoin
-- 😄 Pronouns: ... she / her
-- ⚡ Fun fact: ... damn
+
+- 📫 How to reach me: ... 
+     1. linkedin - https://www.linkedin.com/in/shreya-prabhakar-740921151/
+
+- ⚡ Fun fact: ... 
+     "Data lasts longer than opinions"
 
