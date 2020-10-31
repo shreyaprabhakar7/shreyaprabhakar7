@@ -12,5 +12,5 @@
      - linkedin - https://www.linkedin.com/in/shreya-prabhakar-740921151/ 
 
 - ⚡ Fun fact: ... 
-     **Data lasts longer than opinions**
+     **"Data lasts longer than opinions"**
 
