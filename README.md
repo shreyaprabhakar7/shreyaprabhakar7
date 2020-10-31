@@ -1,12 +1,12 @@
 ### Hi there, this is Shreya! 👋
 
 - 🔭 I’m currently working on ... <br /> 
-         **1. computer Vision** <br />
-         **2. NLP** <br />
+         **- computer Vision** <br />
+         **- NLP** <br />
 - 🌱 I’m currently learning ... <br />
-         **1. Machine Learning** <br />
-         **2. Deep Learning** <br /> 
-         **3. Data Analysis** <br />
+         **- Machine Learning** <br />
+         **- Deep Learning** <br /> 
+         **- Data Analysis** <br />
 
 - 📫 How to reach me: ... 
      1. linkedin - https://www.linkedin.com/in/shreya-prabhakar-740921151/
